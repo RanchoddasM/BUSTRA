@@ -1,9 +1,3 @@
-const subm = document.getElementById('subm');
-
-subm.onclick = function(){
-    window.location.href = 'main.html';
-}
-
 const charts = document.querySelectorAll(".chart");
 
 charts.forEach(function (chart) {
